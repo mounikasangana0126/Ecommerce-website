@@ -20,7 +20,7 @@ Welcome to our E-Commerce Website! This project is a modern and responsive e-com
 
 ## Demo
 
-Check out the [demo](https://yourdemo.com) to see the E-Commerce Website in action!
+Check out the [demo](ecommerce-website-3osauu4ee-mounikasangana0126s-projects.vercel.app) to see the E-Commerce Website in action!
 
 ## Screenshot
 
