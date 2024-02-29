@@ -4,11 +4,11 @@ Welcome to our E-Commerce Website! This project is a modern and responsive e-com
 
 ## Features
 
-- **Home Page:** The landing page showcases featured products and promotions to captivate visitors and encourage exploration.
-- **Men's Section:** Explore a wide range of men's clothing, footwear, and accessories tailored to modern trends and styles.
-- **Women's Section:** Discover an extensive collection of women's apparel, shoes, and accessories designed for fashion-forward individuals.
-- **Kids' Section:** Browse through adorable and practical clothing and accessories for kids of all ages, from infants to pre-teens.
-- **Cart Section:** Manage your shopping cart effortlessly, review items, update quantities, and proceed to checkout with ease.
+- [Home Page]: The landing page showcases featured products and promotions to captivate visitors and encourage exploration.
+- [Men's Section]: Explore a wide range of men's clothing, footwear, and accessories tailored to modern trends and styles.
+- [Women's Section]: Discover an extensive collection of women's apparel, shoes, and accessories designed for fashion-forward individuals.
+- [Kids' Section]: Browse through adorable and practical clothing and accessories for kids of all ages, from infants to pre-teens.
+- [Cart Section]: Manage your shopping cart effortlessly, review items, update quantities, and proceed to checkout with ease.
 
 ## Technologies Used
 
